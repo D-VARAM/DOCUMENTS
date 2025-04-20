@@ -1,0 +1,11 @@
+APPLICATION
+├── backend
+│   ├── Dockerfile
+│   └── main.go
+├── data
+│   └── ml
+│       ├── Dockerfile
+│       └── app.py
+├── docker-compose.yaml
+└── frontend
+    └── Dockerfile
